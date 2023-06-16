@@ -1,4 +1,5 @@
 👋 Hi,
+
 💻 SELECT 'GIT_INTRO' FROM GITHUB_USERS WHERE USER_NAME = 'bparth612'
 
 <!---
